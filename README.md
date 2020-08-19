@@ -1,3 +1,3 @@
 # About
 
-I'm a software developer that loves to try new things!
+I'm a software developer that love to try new things!
