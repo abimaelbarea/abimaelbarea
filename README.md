@@ -4,4 +4,4 @@
 
 I'm a **Full Stack Developer** that love to try and experiment with new things.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elabi3)](https://github.com/anuraghazra/github-readme-stats)
+[![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=elabi3)](https://github.com/elabi3)
