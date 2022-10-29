@@ -1,12 +1,16 @@
 ![Header](header.jpg)
 
+<center>
+
 | Site             | Find me                                |
 | ---------------- | -------------------------------------- |
 | Personal Website | https://www.abimaelbarea.com           |
 | Linkedin         | http://es.linkedin.com/in/abimaelbarea |
 | Twitter          | https://twitter.com/abimaelbarea       |
-| Medium           | https://abimaelbarea.medium.com         |
+| Medium           | https://abimaelbarea.medium.com        |
 | Dev.to           | https://dev.to/abimaelbarea            |
+
+</center>
 
 # Latest Blog post
 
