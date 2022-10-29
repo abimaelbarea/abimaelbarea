@@ -1,6 +1,12 @@
 ![Header](header.jpg)
 
-<center>
+# Latest Blog Posts
+
+- [A world beyond frameworks?](https://www.abimaelbarea.com/blog/a-world-beyond-frameworks)
+- [CSS Encapsulation](https://www.abimaelbarea.com/blog/css-encapsulation)
+- [Introducing abimaelbarea.com/blog](https://www.abimaelbarea.com/blog/introducing-abimaelbarea.com-blog)
+
+# Contact Info
 
 | Site             | Find me                                |
 | ---------------- | -------------------------------------- |
@@ -9,11 +15,3 @@
 | Twitter          | https://twitter.com/abimaelbarea       |
 | Medium           | https://abimaelbarea.medium.com        |
 | Dev.to           | https://dev.to/abimaelbarea            |
-
-</center>
-
-# Latest Blog post
-
-- [A world beyond frameworks?](https://www.abimaelbarea.com/blog/a-world-beyond-frameworks)
-- [CSS Encapsulation](https://www.abimaelbarea.com/blog/css-encapsulation)
-- [Introducing abimaelbarea.com/blog](https://www.abimaelbarea.com/blog/introducing-abimaelbarea.com-blog)
