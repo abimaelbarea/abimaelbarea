@@ -2,6 +2,7 @@
 
 # Latest Blog Posts
 
+- [AI, the present and future of Software Development](https://www.abimaelbarea.com/blog/ai-the-present-and-future-of-software-development)
 - [A world beyond frameworks?](https://www.abimaelbarea.com/blog/a-world-beyond-frameworks)
 - [CSS Encapsulation](https://www.abimaelbarea.com/blog/css-encapsulation)
 - [Introducing abimaelbarea.com/blog](https://www.abimaelbarea.com/blog/introducing-abimaelbarea.com-blog)
