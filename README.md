@@ -2,6 +2,7 @@
 
 # Latest Blog Posts
 
+- [Cloud Computing](https://www.abimaelbarea.com/blog/cloud-computing)
 - [The risk of Silos within Tech Teams](https://www.abimaelbarea.com/blog/tech-silos)
 - [CSS, a vast and unknown universe](https://www.abimaelbarea.com/blog/css)
 - [AI, the present and future of Software Development](https://www.abimaelbarea.com/blog/ai-the-present-and-future-of-software-development)
