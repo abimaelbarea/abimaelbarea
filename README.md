@@ -1,16 +1,18 @@
 ![Header](main.png)
 
 ## About me
-### First programming language and when you learned
 
+### First programming language and when 
 Basic, I was 12. 
 
-### Programming languages you learned and used during your career
+### Programming languages learned and used 
 
 - Basic
 - Ada
 - C
 - Bash
+- Assembly: MC68000
+- Assembly: MC88110
 - Java
 - C++
 - Python
