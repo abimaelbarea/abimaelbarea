@@ -5,6 +5,7 @@
 - Basic
 - Ada
 - C
+- Bash
 - Java
 - C++
 - Python
