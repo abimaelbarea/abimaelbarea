@@ -1,4 +1,4 @@
-![Header](main.og.jpg)
+![Header](main.png)
 
 # Featured Blog Posts
 
