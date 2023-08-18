@@ -7,6 +7,7 @@
 - C
 - Java
 - C++
+- Python
 - Objective C
 - Swift
 - Kotlin
