@@ -1,5 +1,18 @@
 ![Header](main.png)
 
+## Programming languages I've used during my career 
+
+- Basic
+- Ada
+- C
+- Java
+- C++
+- Objective C
+- Swift
+- Kotlin
+- Typescript
+- Javascript
+
 ## Featured Blog Posts
 
 | Topic | Post |
