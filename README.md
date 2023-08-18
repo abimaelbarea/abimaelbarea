@@ -1,10 +1,10 @@
 ![Header](main.png)
 
-## What was the first programming language you learned, and when?
+## First programming language and when you learned
 
 Basic, I was 12. 
 
-## What programming languages have you learned and used during your career?
+## Programming languages you learned and used during your career
 
 - Basic
 - Ada
@@ -18,6 +18,14 @@ Basic, I was 12.
 - Kotlin
 - Typescript
 - Javascript
+
+## Frameworks you have worked on
+
+| Platform | Framework |
+| --- | --- |
+| Native Mobile | iOS, Android |
+| JVM | Springboot |
+| JS | Angular, React, NextJS, NodeJS |
 
 ## Featured Blog Posts
 
