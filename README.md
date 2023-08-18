@@ -1,6 +1,10 @@
 ![Header](main.png)
 
-## Programming languages I've used during my career 
+## What was the first programming language you learned, and when?
+
+Basic, I was 12. 
+
+## What programming languages have you learned and used during your career?
 
 - Basic
 - Ada
