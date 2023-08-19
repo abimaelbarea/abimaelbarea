@@ -5,18 +5,18 @@
 ### First programming language and when 
 Basic, I was 12. 
 
-### Programming languages learned and used 
+### Programming languages learned and used (in order)
 
 - Basic
 - Ada
 - C
+- Java
 - Bash
 - Assembly: MC68000
 - Assembly: MC88110
-- Java
 - C++
-- Python
 - Objective C
+- Python
 - Swift
 - Kotlin
 - Typescript
