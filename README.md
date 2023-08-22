@@ -11,7 +11,7 @@
 | C        | MC88110  | Swift       |            |
 | Java     | C++      | Kotlin      |            |
 
-* Basic, I was 12.
+(*) Basic, I was 12.
 
 ## Featured Blog Posts
 
