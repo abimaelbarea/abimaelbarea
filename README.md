@@ -22,6 +22,10 @@ Basic, I was 12.
 - Typescript
 - Javascript
 
+## Contributions
+
+![Abimael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abimaelbarea&theme=github-compact)
+
 ## Featured Blog Posts
 
 | Topic | Post |
