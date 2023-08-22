@@ -1,8 +1,6 @@
 ![Header](main.png)
 
-## About me
-
-### Programming languages learned and used (in order)
+## Programming languages learned and used (in order)
 
 | <!-- --> | <!-- --> | <!-- -->    | <!-- -->   |
 | -------- | -------- | ----------- | ---------- |
