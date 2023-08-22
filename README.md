@@ -2,19 +2,18 @@
 
 ## About me
 
-### First programming language and when 
-Basic, I was 12. 
-
 ### Programming languages learned and used (in order)
 
 | <!-- --> | <!-- --> | <!-- -->    | <!-- -->   |
 | -------- | -------- | ----------- | ---------- |
-| Basic    | Bash     | Objective C | Typescript |
+| Basic*  | Bash     | Objective C | Typescript |
 | Ada      | MC68000  | Python      | Javascript |
 | C        | MC88110  | Swift       |            |
 | Java     | C++      | Kotlin      |            |
 
-## Contributions
+* Basic, I was 12.
+
+### Contributions
 
 ![Abimael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abimaelbarea&theme=github-compact)
 
