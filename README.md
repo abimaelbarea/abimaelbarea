@@ -7,6 +7,7 @@ Basic, I was 12.
 
 ### Programming languages learned and used (in order)
 
+| <!-- -->    | <!-- -->    |
 | ------------- | -------- |
 | **Name:** | John Doe |
 | **Position:** | CEO |
