@@ -6,7 +6,7 @@
 
 | <!-- --> | <!-- --> | <!-- -->    | <!-- -->   |
 | -------- | -------- | ----------- | ---------- |
-| Basic*  | Bash     | Objective C | Typescript |
+| Basic (*)| Bash     | Objective C | Typescript |
 | Ada      | MC68000  | Python      | Javascript |
 | C        | MC88110  | Swift       |            |
 | Java     | C++      | Kotlin      |            |
