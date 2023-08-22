@@ -7,25 +7,12 @@ Basic, I was 12.
 
 ### Programming languages learned and used (in order)
 
-| <!-- -->    | <!-- -->    |
-| ------------- | -------- |
-| **Name:** | John Doe |
-| **Position:** | CEO |
-
-- Basic
-- Ada
-- C
-- Java
-- Bash
-- Assembly: MC68000
-- Assembly: MC88110
-- C++
-- Objective C
-- Python
-- Swift
-- Kotlin
-- Typescript
-- Javascript
+| <!-- --> | <!-- --> | <!-- -->    | <!-- -->   |
+| -------- | -------- | ----------- | ---------- |
+| Basic    | Bash     | Objective C | Typescript |
+| Ada      | MC68000  | Python      | Javascript |
+| C        | MC88110  | Swift       |            |
+| Java     | C++      | Kotlin      |            |
 
 ## Contributions
 
