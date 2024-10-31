@@ -1,15 +1,13 @@
 ![Header](main.png)
 
-## Programming languages learned and used (in order)
+## Programming languages learned and used
 
 | <!-- --> | <!-- --> | <!-- -->    | <!-- -->   |
 | -------- | -------- | ----------- | ---------- |
-| Basic (*)| Bash     | Objective C | Typescript |
+| Basic    | Bash     | Objective C | Typescript |
 | Ada      | MC68000  | Python      | Javascript |
 | C        | MC88110  | Swift       |            |
 | Java     | C++      | Kotlin      |            |
-
-- (*) Basic, I was 12.
 
 ## Featured Blog Posts
 
